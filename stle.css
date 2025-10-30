@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+}
+
+.v img{
+    align-items: center;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.v{
+    position: relative;
+}
+
+.v button{
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 50px;
+    color: red;
+    position: absolute;
+    top: 2px;
+    left: 33%;
+}
